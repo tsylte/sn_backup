@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="Landing Page Default">5a714726bca98110579902570ecceec0</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-02-11 17:47:24</sys_created_on>
+        <sys_id>9a71472649a98110644d9063c8e118c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_9a71472649a98110644d9063c8e118c0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:47:24</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

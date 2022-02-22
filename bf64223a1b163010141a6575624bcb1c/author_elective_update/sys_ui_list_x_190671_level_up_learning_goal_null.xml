@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_190671_level_up_learning_goal" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-03 21:00:27</sys_created_on>
+            <sys_id>f4b56e3a1b163010141a6575624bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-03 21:00:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>goal</element>
+            <list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-03 21:00:27</sys_created_on>
+            <sys_id>78b56e3a1b163010141a6575624bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-03 21:00:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>planned_start</element>
+            <list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-03 21:00:27</sys_created_on>
+            <sys_id>f8b56e3a1b163010141a6575624bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-03 21:00:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>target</element>
+            <list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-03 21:00:27</sys_created_on>
+            <sys_id>7cb56e3a1b163010141a6575624bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-03 21:00:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_190671_level_up_learning_goal</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-03 21:00:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cb56e3a1b163010141a6575624bcb51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_190671_level_up_learning_goal</sys_name>
+            <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+            <sys_update_name>sys_ui_list_x_190671_level_up_learning_goal_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-03 21:00:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Level Up">bf64223a1b163010141a6575624bcb1c</application>
+        <file_path/>
+        <instance_id>ba5c4bc91bc76c50c8432f8dee4bcbc8</instance_id>
+        <instance_name>dev107642</instance_name>
+        <name>sys_ui_list_x_190671_level_up_learning_goal_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_190671_level_up_learning_goal" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-03 21:00:27</sys_created_on><sys_id>f4b56e3a1b163010141a6575624bcb52</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-03 21:00:27</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>goal</element><list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-03 21:00:27</sys_created_on><sys_id>78b56e3a1b163010141a6575624bcb52</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-03 21:00:27</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>planned_start</element><list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-03 21:00:27</sys_created_on><sys_id>f8b56e3a1b163010141a6575624bcb52</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-03 21:00:27</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>target</element><list_id display_value="x_190671_level_up_learning_goal" element="NULL" name="x_190671_level_up_learning_goal" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3cb56e3a1b163010141a6575624bcb51</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-03 21:00:27</sys_created_on><sys_id>7cb56e3a1b163010141a6575624bcb52</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-03 21:00:27</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_190671_level_up_learning_goal</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-03 21:00:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3cb56e3a1b163010141a6575624bcb51</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_190671_level_up_learning_goal</sys_name><sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package><sys_policy/><sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope><sys_update_name>sys_ui_list_x_190671_level_up_learning_goal_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-03 21:00:27</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1512873688</payload_hash>
+        <record_name>Learning goal</record_name>
+        <reverted_from/>
+        <source>0874223a1b163010141a6575624bcb1f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-03 21:00:27</sys_created_on>
+        <sys_id>30b56e3a1b163010141a6575624bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bad76769d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-03 21:00:27</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>b8b56e3a0c163010fc14336f5467ea54</update_guid>
+        <update_guid_history>b8b56e3a0c163010fc14336f5467ea54:-1512873688,e4b4263ad0163010fce03bf66a09be78:313780830</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tsylte</sys_created_by>
+        <sys_created_on>2022-02-11 19:48:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0f7f8d90090542528747b6f96b5ac071</sys_id>
+        <sys_metadata>3cb56e3a1b163010141a6575624bcb51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_190671_level_up_learning_goal</sys_name>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_parent display_value="">6294a23a1b163010141a6575624bcbcb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_scope_delete display_value="">106261c8feeb4fa881c9bc36bc586640</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_190671_level_up_learning_goal_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_190671_level_up_learning_goal_null">30b56e3a1b163010141a6575624bcb55</sys_update_version>
+        <sys_updated_by>tsylte</sys_updated_by>
+        <sys_updated_on>2022-02-11 19:48:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

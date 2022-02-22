@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Level Up! Config">1671472697a98110ca283e2e6253af94</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Search Page">9a7147265fa98110580d064337ded4b3</macroponent>
+        <macroponent_config>{
+  "searchContextConfigId" : "",
+  "searchTerm" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Search Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Search Page">d2714726f4a981103e56ee7f9c5dceb2</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-02-11 17:47:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96714726b1a98110448674779250f3bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>sys_ux_screen_96714726b1a98110448674779250f3bf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:47:23</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=96714726b1a98110448674779250f3bf"/>
+</record_update>

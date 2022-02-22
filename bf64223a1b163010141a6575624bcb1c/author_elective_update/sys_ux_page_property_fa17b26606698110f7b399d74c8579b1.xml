@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="">3217b2668f698110febc80b98f32c5b1</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>tsylte</sys_created_by>
+        <sys_created_on>2022-02-11 17:02:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fa17b26606698110f7b399d74c8579b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>sys_ux_page_property_fa17b26606698110f7b399d74c8579b1</sys_update_name>
+        <sys_updated_by>tsylte</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:02:04</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_190671_level_up.3217b2668f698110febc80b98f32c5b1.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Level Up">bf64223a1b163010141a6575624bcb1c</application>
+        <file_path/>
+        <instance_id>337684f7dbf79fc03353f22ebf9619f7</instance_id>
+        <instance_name>dev70456</instance_name>
+        <name>sys_ux_page_property_fa17b26606698110f7b399d74c8579b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>actionConfigId</name><page display_value="">3217b2668f698110febc80b98f32c5b1</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>tsylte</sys_created_by><sys_created_on>2022-02-11 17:02:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>fa17b26606698110f7b399d74c8579b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>actionConfigId</sys_name><sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package><sys_policy/><sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope><sys_update_name>sys_ux_page_property_fa17b26606698110f7b399d74c8579b1</sys_update_name><sys_updated_by>tsylte</sys_updated_by><sys_updated_on>2022-02-11 17:02:04</sys_updated_on><type>string</type><unique_name>x_190671_level_up.3217b2668f698110febc80b98f32c5b1.root.actionConfigId</unique_name><value>df28e3db0f1210107d20409dc4767ee0</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>881503944</payload_hash>
+        <record_name>actionConfigId</record_name>
+        <reverted_from/>
+        <source>a4c4c50297010110ca283e2e6253afdd</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-15 22:54:07</sys_created_on>
+        <sys_id>a42e36ee97698110ca283e2e6253af33</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17e5ff2ae980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>642e36ee9f6981101392b8b997b6bc33</update_guid>
+        <update_guid_history>642e36ee9f6981101392b8b997b6bc33:881503944</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tsylte</sys_created_by>
+        <sys_created_on>2022-02-11 17:32:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>35b880e86b4d4f328529d0691156e971</sys_id>
+        <sys_metadata>fa17b26606698110f7b399d74c8579b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_scope_delete display_value="">106261c8feeb4fa881c9bc36bc586640</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_fa17b26606698110f7b399d74c8579b1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_fa17b26606698110f7b399d74c8579b1">a42e36ee97698110ca283e2e6253af33</sys_update_version>
+        <sys_updated_by>tsylte</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:32:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

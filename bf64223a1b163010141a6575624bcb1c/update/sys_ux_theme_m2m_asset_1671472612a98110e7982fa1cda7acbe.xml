@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">12714726c9a98110467478c4900450be</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-02-11 17:47:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1671472612a98110e7982fa1cda7acbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_1671472612a98110e7982fa1cda7acbe</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:47:24</sys_updated_on>
+        <theme display_value="Light Theme">527147260ba9811040bbd5f6957218b0</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

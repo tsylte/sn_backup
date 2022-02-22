@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <rca_type>real_rca</rca_type>
+        <source>a47a98aec7733300aac9289688c26022</source>
+        <source_scope display_value="sn-ui-builder">56b33d33664260cd494440286cda2fea</source_scope>
+        <source_table>sys_script_include</source_table>
+        <source_type>2</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>tsylte</sys_created_by>
+        <sys_created_on>2022-02-11 17:59:35</sys_created_on>
+        <sys_id>a544c76697a98110ca283e2e6253afa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>56b33d33664260cd494440286cda2fea</sys_name>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_a544c76697a98110ca283e2e6253afa4</sys_update_name>
+        <sys_updated_by>tsylte</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:59:35</sys_updated_on>
+        <target>6294a23a1b163010141a6575624bcbcb</target>
+        <target_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>

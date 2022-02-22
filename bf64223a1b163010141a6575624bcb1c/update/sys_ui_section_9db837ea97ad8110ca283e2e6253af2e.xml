@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="9db837ea97ad8110ca283e2e6253af2e" sys_domain="global" table="sysapproval_approver" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>tsylte</sys_created_by>
+            <sys_created_on>2022-02-11 21:49:20</sys_created_on>
+            <sys_id>4bd8ffaa97ad8110ca283e2e6253af88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sysapproval_approver" sys_domain="global" view="Default view">9db837ea97ad8110ca283e2e6253af2e</sys_ui_section>
+            <sys_updated_by>tsylte</sys_updated_by>
+            <sys_updated_on>2022-02-11 21:49:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>tsylte</sys_created_by>
+            <sys_created_on>2022-02-11 21:49:20</sys_created_on>
+            <sys_id>c3d8ffaa97ad8110ca283e2e6253af89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sysapproval_approver" sys_domain="global" view="Default view">9db837ea97ad8110ca283e2e6253af2e</sys_ui_section>
+            <sys_updated_by>tsylte</sys_updated_by>
+            <sys_updated_on>2022-02-11 21:49:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tsylte</sys_created_by>
+            <sys_created_on>2022-02-11 21:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9db837ea97ad8110ca283e2e6253af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+            <sys_update_name>sys_ui_section_9db837ea97ad8110ca283e2e6253af2e</sys_update_name>
+            <sys_updated_by>tsylte</sys_updated_by>
+            <sys_updated_on>2022-02-11 21:48:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

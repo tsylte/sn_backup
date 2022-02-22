@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>tsylte</sys_created_by>
+        <sys_created_on>2022-02-11 17:02:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f617b2661a698110a7141db8c3df21ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>m2m_app_config_theme_f617b2661a698110a7141db8c3df21ae</sys_update_name>
+        <sys_updated_by>tsylte</sys_updated_by>
+        <sys_updated_on>2022-02-11 17:02:04</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">7e17b2668e698110ee17d3679f49cdae</theme>
+        <ux_app_configuration display_value="Level Up Config">3a17b26603698110c40114d88b7ce4ae</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

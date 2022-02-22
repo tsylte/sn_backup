@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Select from many options">47129d541bb23010141a6575624bcb3c</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:02:26</sys_created_on>
+        <sys_id>50429d541bb23010141a6575624bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request from many options.SNC External</sys_name>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_50429d541bb23010141a6575624bcb43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:02:26</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Level Up">bf64223a1b163010141a6575624bcb1c</application>
+        <file_path/>
+        <instance_id>ba5c4bc91bc76c50c8432f8dee4bcbc8</instance_id>
+        <instance_name>dev107642</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_50429d541bb23010141a6575624bcb43</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Select from many options">47129d541bb23010141a6575624bcb3c</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-20 17:02:26</sys_created_on><sys_id>50429d541bb23010141a6575624bcb43</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request from many options.SNC External</sys_name><sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package><sys_policy/><sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_50429d541bb23010141a6575624bcb43</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-20 17:02:26</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>839207960</payload_hash>
+        <record_name>Request from many options.SNC External</record_name>
+        <reverted_from/>
+        <source>ef0fd6521be23010141a6575624bcb8d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-09-14 17:30:09</sys_created_on>
+        <sys_id>e945d8951b323010141a6575624bcbab</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17be55be0e80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>a945d895e1323010811f54fa5dc337ab</update_guid>
+        <update_guid_history>a945d895e1323010811f54fa5dc337ab:839207960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request from many options.SNC External">3545d8951b323010141a6575624bcbb0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-23 15:09:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>6ceaded1321b4da6aa0b88370b049584</sys_id>
+        <sys_metadata>50429d541bb23010141a6575624bcb43</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request from many options.SNC External</sys_name>
+        <sys_package display_value="Level Up" source="x_190671_level_up">bf64223a1b163010141a6575624bcb1c</sys_package>
+        <sys_parent display_value="">47129d541bb23010141a6575624bcb3c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Level Up">bf64223a1b163010141a6575624bcb1c</sys_scope>
+        <sys_scope_delete display_value="">106261c8feeb4fa881c9bc36bc586640</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_50429d541bb23010141a6575624bcb43</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_50429d541bb23010141a6575624bcb43">e945d8951b323010141a6575624bcbab</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-23 15:09:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
